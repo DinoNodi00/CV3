@@ -1,0 +1,151 @@
+
+body{
+    
+    margin: 5%;
+    background: #1B1B25;
+  color: #fff;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+
+header{
+    padding: 10px;
+    text-align: center;
+    background: #1B1B25;
+    color: #fff;
+    margin:30px;
+    font-size:20px;
+}
+
+
+#head{
+    color: royalblue;
+}
+
+.ld{
+
+ width: 50%;
+ height: 300px;
+ float: left;
+ background: #1B1B25;
+ color: #fff;
+}
+
+.rd{
+    width: 50%;
+    height: 600px;
+    float: right;
+    background: #1B1B25;
+    color: #fff;
+    
+}
+
+#par{
+    color: lightblue;
+}
+
+#bi{
+    color:royalblue
+}
+
+ul li::before {
+    content: "\2022"; 
+    color: red; 
+    font-weight: bold; 
+    display: inline-block; 
+    width: 1em; 
+    margin-left: -1em; 
+  }
+
+  ul{
+      color: royalblue;
+  }
+
+ 
+
+hr {
+    width: 75%;
+  }
+
+  #bi{
+      text-align: center;
+  }
+
+#edu{
+    text-align: center;
+    color: #FFA500;
+  
+}
+
+table{
+    text-align: center;
+    
+}
+
+
+.tab{
+    width: 45%;
+    background: #1B1B25;
+    height: 300px;
+    float: left;
+
+   
+}
+
+#tab, th, td{
+    width: 100%;
+    border: 1px solid white ;
+    
+    
+}
+tbody tr:nth-child(odd) {
+    background-color:black;
+    color: yellow;
+  }
+  
+  tbody tr:nth-child(even) {
+    background-color: yellow;
+    color: black;
+  }
+
+
+  
+
+.foot{
+    background: #1B1B25;
+    width: 50%;
+ height: 150px;
+ float: left;
+}
+
+.foot2{
+    background: #1B1B25;
+    width: 50%;
+ height: 150px;
+ float: right;
+ text-align: center;
+}
+
+#footer{
+    text-align: center;
+    color: royalblue;
+    
+}
+
+#demo{
+    color: royalblue;
+}
+
+#time{
+    color: royalblue;
+}
+
+#d{
+    color: royalblue;
+}
+
+#cont{
+    color: royalblue;
+}
+
+
